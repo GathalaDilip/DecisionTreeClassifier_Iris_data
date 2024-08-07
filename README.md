@@ -1,4 +1,4 @@
-"""Final Project Conclusion Summary: Iris Dataset Classification using Decision Tree
+Final Project Conclusion Summary: Iris Dataset Classification using Decision Tree
 
 Project Objective:
 The objective of this project was to classify the species of Iris flowers (Iris-setosa, Iris-versicolor, and Iris-virginica) based on their features (sepal length, sepal width, petal length, and petal width) using a Decision Tree Classifier.
@@ -47,4 +47,4 @@ Conclusion:
 
 By completing this project, we have built a robust model for classifying Iris species, gained insights into the important features, and 
 learned how to interpret and utilize the decision rules provided by the Decision Tree. This knowledge can be extended to tackle more 
-complex classification problems in various domains."""
+complex classification problems in various domains.
